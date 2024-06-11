@@ -21,4 +21,3 @@ To get started with `get_next_line`, clone the repository and compile the progra
 git clone https://github.com/BenjaminLarger/get_next_line.git
 cd get_next_line
 make
-./get_next_line
